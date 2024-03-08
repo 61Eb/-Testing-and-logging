@@ -6,7 +6,6 @@ import Homework30.ArrayChecker;
 public class test {
 
     private ArrayReturnNew ArrayUtils;
-
     @Test
     public void testGetArrayAfterLastOne() {
         int[] arr1 = {1, 2, 1, 2, 2};
