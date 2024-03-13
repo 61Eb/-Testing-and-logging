@@ -18,6 +18,5 @@ public class ArrayChecker {
     }
 
     public static void main(String[] args) {
-
     }
 }
