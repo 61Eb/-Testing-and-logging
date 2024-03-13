@@ -16,6 +16,7 @@ public class test {
         int[] arr2 = {2, 2, 2, 2};
         Assertions.assertThrows(RuntimeException.class, () -> ArrayUtils.getArrayAfterLastOne(arr2));
     }
+
     private ArrayChecker test2;
     @Test
     public void checkArray() {
